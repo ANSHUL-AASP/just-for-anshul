@@ -1,2 +1,1 @@
-# just-for-anshul
-please do not touch this rpository
+This a personal repozsitory
